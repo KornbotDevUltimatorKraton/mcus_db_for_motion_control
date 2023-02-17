@@ -1,1 +1,1 @@
-{'STM32':{'Nucleo-32':'test'}}
+{'STM32':{'Nucleo_32':['Nucleo-F031K6','Nucleo-L031K6','Nucleo-L412KB','Nucleo-F303K8','Nucleo-G431KB'],'Nucleo_64':['Neucleo-F030R8','Neucleo-F072RB','Neucleo-F091RC','Neucleo-F103RB','Neucleo-F103RB','Neucleo-F303R8','Neucleo-F303RE','Neucleo-F401RE','Neucleo-F411RE','Neucleo-F446RE','Neucleo-G071RB','Neucleo-G431RB','Neucleo-G474RE','Neucleo-L053R8','Neucleo-L073RZ','Neucleo-L152RE','Neucleo-L433RC-P','Neucleo-L452RE','Neucleo-L452RE-P','Neucleo-L476RG','P-Neucleo WB55RG']}}
